@@ -1,0 +1,37 @@
+/*
+body {
+	background: none transparent;
+	color: #FFFFFF;
+}
+*/
+
+.gallery_wrapper {
+	text-align: center;
+}
+
+.gallery_thumbnail {
+	width: 230px;
+	text-align: center;
+}
+
+.horizontal_spacer {
+	float: left;
+	width: 15px;
+}
+
+.vertical_spacer {
+	clear: both;
+	height: 40px;
+}
+
+.page_links {
+	text-align: center;
+}
+
+a , a:visited {
+	color: #FFFFFF;
+}
+
+.yellow_link a, a:link, a:visited, a:hover, a:active {
+	color: yellow;
+}

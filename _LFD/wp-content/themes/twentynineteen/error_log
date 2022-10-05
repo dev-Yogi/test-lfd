@@ -1,0 +1,22 @@
+[26-Sep-2020 02:21:42 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentynineteen/404.php on line 12
+[20-Oct-2020 21:05:36 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentynineteen/404.php on line 12
+[14-Jun-2021 13:58:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentynineteen/404.php on line 12
+[20-Oct-2021 14:50:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentynineteen/404.php on line 12
+[28-Nov-2021 02:41:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentynineteen/404.php on line 12
+[17-Jan-2022 15:21:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentynineteen/404.php on line 12
+[01-Feb-2022 07:26:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentynineteen/404.php on line 12

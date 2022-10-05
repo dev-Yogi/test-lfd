@@ -1,0 +1,8 @@
+[14-Jul-2018 08:26:16 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/SimplePie/Cache/File.php on line 52
+[14-Jul-2018 08:26:19 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[14-Jul-2018 08:26:19 America/Chicago] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[14-Jul-2018 08:26:27 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/SimplePie/Cache/DB.php on line 52
+[06-Feb-2019 20:13:22 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[06-Feb-2019 20:14:10 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/SimplePie/Cache/DB.php on line 52
+[06-Feb-2019 20:14:19 America/Chicago] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[06-Feb-2019 20:15:08 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/SimplePie/Cache/File.php on line 52

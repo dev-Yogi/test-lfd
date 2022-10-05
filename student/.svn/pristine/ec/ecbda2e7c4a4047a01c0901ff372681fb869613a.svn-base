@@ -1,0 +1,136 @@
+body {
+    /*font-size: 16px;*/
+}
+
+.bg-blue-darker .course-details {
+    position: absolute;
+    margin-top: 3rem
+}
+
+.course-deck .card-header {
+    min-height: 180px;
+    background-size: cover;
+    background-position: center;
+}
+
+.course-details .card-header{
+    min-height: 240px;
+    background-size: cover;
+    background-position: center;
+}
+
+.what-youll-learn {
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+.lesson .what-youll-learn {
+    font-size: 1rem;
+    line-height: 2rem;
+}
+
+.what-youll-learn li:before {
+    color: #9aa0ac;
+    font-family: 'feather' !important;
+    content: "\e92a";
+    margin-right: 1rem;
+}
+
+.course h2 {
+    font-size: 1.5rem;
+}
+
+.help .fe {
+    font-size: 3rem;
+    color: #7ea5dd;
+    margin: 2rem 0;
+    display: inline-block;
+}
+
+.help p {
+    font-size: 16px;
+    margin: 2rem 0;
+}
+
+/* LESSON */
+
+.lesson-side .card-header  {
+    min-height: 180px;
+    background-size: cover;
+    background-position: center;
+}
+
+.lesson-image {
+    max-width: 400px;
+    margin-bottom: 2rem;
+}
+
+.lesson-body {
+    padding: 4rem;
+    line-height: 1.8rem;
+    font-size: 16px;
+}
+
+.lesson-body p,
+.lesson-body ol {
+    margin-bottom: 2rem;
+}
+
+.big-grey {
+    font-size: 36px;
+    font-weight: 600;
+    color: #c8d9f1 ;
+}
+
+/* FORUM */
+.post .avatar {
+    height: 100px;
+    width: 100px;
+    background-color: #724f4d;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    overflow: hidden;
+    border-radius: 2px;
+    border: 1px solid #eae0da;
+}
+
+.forum-avatar {
+    width: 100px;
+    height: 100px;
+    display: block;
+    border-radius: 4px;
+}
+
+.forum-avatar .fas {
+    color: #FFF;
+    opacity: 0.7;
+    font-size: 60px;
+    vertical-align: middle;
+    line-height: 100px;
+    text-align: center;
+    width: 100px;
+}
+
+.nav-item .tag {
+    padding: 0 5px;
+    font-weight: 600;
+    line-height: 16px;
+    font-size: 10px;
+    position: relative;
+    margin-left: 4px;
+    top: -1px;
+}
+
+
+/* VIDEO */
+
+.video-day {
+    font-size: 36px;
+}
+
+.video-month {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 16px;
+}

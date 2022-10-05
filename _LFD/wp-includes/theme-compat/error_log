@@ -1,0 +1,31 @@
+[08-Apr-2016 10:16:25 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/sidebar.php on line 10
+[08-Apr-2016 10:16:27 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/footer.php on line 10
+[01-Jun-2017 21:59:55 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/footer.php on line 9
+[01-Jun-2017 22:00:37 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/sidebar.php on line 9
+[20-Jun-2017 22:45:50 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/footer.php on line 9
+[20-Jun-2017 22:46:27 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/sidebar.php on line 9
+[10-Feb-2018 13:21:53 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/embed-content.php on line 13
+[10-Feb-2018 13:21:54 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/embed-content.php on line 13
+[14-Jul-2018 07:33:37 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/header-embed.php on line 19
+[14-Jul-2018 07:33:38 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/embed-404.php on line 14
+[14-Jul-2018 07:33:42 America/Chicago] PHP Fatal error:  Call to undefined function do_action() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/footer-embed.php on line 18
+[14-Jul-2018 07:33:52 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/sidebar.php on line 9
+[14-Jul-2018 07:34:16 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/header.php on line 9
+[14-Jul-2018 07:47:27 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/embed.php on line 13
+[14-Jul-2018 07:51:43 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/comments.php on line 10
+[14-Jul-2018 08:11:03 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/embed-content.php on line 13
+[14-Jul-2018 08:26:19 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/footer.php on line 9
+[06-Feb-2019 20:13:13 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/embed.php on line 13
+[06-Feb-2019 20:13:14 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/header-embed.php on line 19
+[06-Feb-2019 20:13:15 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/embed-content.php on line 13
+[06-Feb-2019 20:13:56 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/footer.php on line 9
+[06-Feb-2019 20:13:56 America/Chicago] PHP Fatal error:  Call to undefined function do_action() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/footer-embed.php on line 18
+[06-Feb-2019 20:13:57 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/embed-404.php on line 14
+[06-Feb-2019 20:14:18 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/sidebar.php on line 9
+[06-Feb-2019 20:14:31 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/header.php on line 9
+[06-Feb-2019 20:17:45 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/comments.php on line 10
+[27-Jul-2019 16:20:21 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/footer.php on line 9
+[24-Oct-2021 04:45:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home3/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-includes/theme-compat/embed-404.php on line 14

@@ -1,0 +1,2 @@
+[14-Jul-2018 07:28:22 America/Chicago] PHP Fatal error:  Interface 'Requests_Proxy' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/Requests/Proxy/HTTP.php on line 19
+[06-Feb-2019 20:17:18 America/Chicago] PHP Fatal error:  Interface 'Requests_Proxy' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/Requests/Proxy/HTTP.php on line 19

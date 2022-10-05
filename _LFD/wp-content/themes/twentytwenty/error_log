@@ -1,0 +1,9 @@
+[20-Oct-2020 21:05:35 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentytwenty/404.php on line 10
+[09-Jul-2021 19:54:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentytwenty/comments.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentytwenty/comments.php on line 16
+[09-Jul-2021 21:01:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentytwenty/comments.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentytwenty/comments.php on line 16

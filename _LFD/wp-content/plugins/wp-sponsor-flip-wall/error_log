@@ -1,0 +1,4 @@
+[08-Apr-2016 10:16:01 America/Chicago] PHP Fatal error:  Call to undefined function plugins_url() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/plugins/wp-sponsor-flip-wall/wp-sponsor-flip-wall.php on line 41
+[01-Jun-2017 21:59:56 America/Chicago] PHP Fatal error:  Call to undefined function plugins_url() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/plugins/wp-sponsor-flip-wall/wp-sponsor-flip-wall.php on line 41
+[20-Jun-2017 22:45:53 America/Chicago] PHP Fatal error:  Call to undefined function plugins_url() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/plugins/wp-sponsor-flip-wall/wp-sponsor-flip-wall.php on line 41
+[27-Jul-2019 16:20:45 America/Chicago] PHP Fatal error:  Call to undefined function plugins_url() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/plugins/wp-sponsor-flip-wall/wp-sponsor-flip-wall.php on line 41

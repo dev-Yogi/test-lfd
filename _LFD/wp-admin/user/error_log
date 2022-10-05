@@ -1,0 +1,4 @@
+[24-Oct-2021 02:22:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/elstretcho/public_html/lemonfreshday.com/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-admin/user/menu.php on line 10

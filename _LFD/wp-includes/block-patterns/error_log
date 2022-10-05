@@ -1,0 +1,4 @@
+[24-Oct-2021 07:53:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/elstretcho/public_html/lemonfreshday.com/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-includes/block-patterns/heading-paragraph.php on line 9

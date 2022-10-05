@@ -1,0 +1,2 @@
+[14-Jul-2018 07:28:07 America/Chicago] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/Requests/Response/Headers.php on line 13
+[06-Feb-2019 20:14:20 America/Chicago] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/Requests/Response/Headers.php on line 13

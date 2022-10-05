@@ -1,0 +1,9 @@
+.diy-metabox.slickr-flickr-metabox .metabox-tabs li.tab a.active,
+.diy-metabox.slickr-flickr-metabox .metabox-tabs li.tab a:hover { 
+  border-bottom: 3px solid #1122EE; 
+}
+
+.diy-metabox.slickr-flickr-metabox .metabox-content {
+	background: linear-gradient(to bottom, #FCFCFC,#EEEEEE); 
+  	border: 1px solid silver;	
+}

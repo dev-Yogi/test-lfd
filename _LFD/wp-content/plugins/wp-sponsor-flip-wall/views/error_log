@@ -1,0 +1,6 @@
+[08-Apr-2016 10:16:08 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/plugins/wp-sponsor-flip-wall/views/sponsor_new.php on line 30
+[01-Jun-2017 22:00:09 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/plugins/wp-sponsor-flip-wall/views/sponsor_config.php on line 12
+[01-Jun-2017 22:02:22 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/plugins/wp-sponsor-flip-wall/views/sponsor_new.php on line 30
+[20-Jun-2017 22:46:13 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/plugins/wp-sponsor-flip-wall/views/sponsor_config.php on line 12
+[20-Jun-2017 22:47:52 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/plugins/wp-sponsor-flip-wall/views/sponsor_new.php on line 30
+[27-Jul-2019 16:20:25 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/plugins/wp-sponsor-flip-wall/views/sponsor_config.php on line 12

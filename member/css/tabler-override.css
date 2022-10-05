@@ -1,0 +1,55 @@
+body {
+	line-height: 1.5rem;
+	font-size: 14px;
+}
+
+.custom-file-label::after {
+    height: 100%;
+    border-left: 2px solid rgba(0, 40, 100, 0.15);
+}
+
+.custom-file-label {
+    border: 2px solid rgba(0, 40, 100, 0.15);
+}
+
+.custom-control-label:before {
+    border: 2px solid rgba(0, 40, 100, 0.15);
+    background-color: #fff;
+    background-size: .5rem;
+}
+
+.form-control {
+    border-width: 2px;
+}
+
+.text-decoration-none:hover {
+	text-decoration: none;
+}
+
+.bg-lightblue {
+    background: #f5f7fb !important;
+}
+
+.bg-blue {
+	color: #0F4C81;
+}
+
+.font-weight-semibold {
+	font-weight: 600 !important;
+}
+
+.badge {
+	font-size: 100%;
+}
+
+.btn-link:focus, .btn-link.focus {
+    text-decoration: none;
+}
+
+.bg-blue-lt {
+    color: #1d60b0!important;
+    background: rgba(32,107,196,.08)!important;
+}
+.invalid-feedback {
+  display: block;
+}

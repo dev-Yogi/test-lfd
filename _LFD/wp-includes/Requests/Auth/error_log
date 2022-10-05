@@ -1,0 +1,2 @@
+[14-Jul-2018 08:18:15 America/Chicago] PHP Fatal error:  Interface 'Requests_Auth' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/Requests/Auth/Basic.php on line 18
+[06-Feb-2019 20:14:15 America/Chicago] PHP Fatal error:  Interface 'Requests_Auth' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/Requests/Auth/Basic.php on line 18

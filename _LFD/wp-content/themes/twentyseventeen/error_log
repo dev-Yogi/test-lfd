@@ -1,0 +1,54 @@
+[20-Oct-2020 21:05:35 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php on line 13
+[25-Dec-2020 20:18:58 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[28-Dec-2020 06:00:10 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[29-Dec-2020 22:59:46 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[16-Feb-2021 10:46:35 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php on line 13
+[21-Feb-2021 03:03:29 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php on line 13
+[26-Feb-2021 09:16:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php on line 13
+[01-Mar-2021 11:04:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php on line 13
+[07-Mar-2021 16:36:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php on line 13
+[07-Apr-2021 19:25:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php on line 13
+[06-May-2021 02:15:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php on line 13
+[06-May-2021 02:16:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php on line 13
+[13-May-2021 00:47:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php on line 13
+[16-May-2021 12:57:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/404.php on line 13
+[24-Aug-2021 13:38:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[26-Sep-2021 03:11:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[02-Oct-2021 23:48:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[24-Oct-2021 09:36:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/comments.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentyseventeen/comments.php on line 21

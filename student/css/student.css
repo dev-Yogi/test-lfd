@@ -1,0 +1,252 @@
+body {
+    /*font-size: 16px;*/
+
+    background-color: #f5faf9;
+}
+
+a {
+    color: #17a2b8;
+}
+
+a:hover {
+  color: #128293;
+  text-decoration: underline;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #128293;
+  border-color: #128293;
+}
+
+.btn-primary:focus, .btn-primary.focus {
+  box-shadow: 0 0 0 2px #17a2b880
+}
+
+.btn-primary.disabled, .btn-primary:disabled {
+  color: #fff;
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
+.show > .btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #128293;
+  border-color: #128293;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
+.show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 2px #17a2b880
+}
+
+.card {
+    border: 1px solid rgba(0, 88, 102, 0.12);
+}
+
+.list-group-transparent .list-group-item.active {
+    background: hsla(188, 59%, 54%, 0.06);
+}
+
+.list-group-item.active {
+    color: #17a2b8;
+    border-color: rgba(0, 40, 100, 0.12);
+}
+
+.progress-bar {
+    background-color: #17a2b8;
+}
+
+.staff-bar .btn-sm b {
+    color: #b9e3ea;
+}
+
+.header-nav {
+    background: #17a2b8;
+}
+
+.header-search {
+    border-width: 1px;
+    border-color: rgb(224, 229, 236);
+}
+
+.navbar-brand-img {
+    filter: grayscale(1);
+}
+
+.navbar-brand {
+    color: #17a2b8;
+    line-height: 26px;
+}
+
+.bg-cyan-darker .course-details {
+    position: absolute;
+    margin-top: 3rem
+}
+
+.course-deck .card-header {
+    min-height: 180px;
+    background-size: cover;
+    background-position: center;
+}
+
+.course-details .card-header{
+    min-height: 240px;
+    background-size: cover;
+    background-position: center;
+}
+
+.what-youll-learn {
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+.lesson .what-youll-learn {
+    font-size: 1rem;
+    line-height: 2rem;
+}
+
+.what-youll-learn li:before {
+    color: #9aa0ac;
+    font-family: 'feather' !important;
+    content: "\e92a";
+    margin-right: 1rem;
+}
+
+.course h2 {
+    font-size: 1.5rem;
+}
+
+.help .fe {
+    font-size: 3rem;
+    color: #7ed0dd;
+    margin: 2rem 0;
+    display: inline-block;
+}
+
+.help p {
+    font-size: 16px;
+    margin: 2rem 0;
+}
+
+/* LESSON */
+
+.lesson-side .card-header  {
+    min-height: 180px;
+    background-size: cover;
+    background-position: center;
+}
+
+.lesson-image {
+    max-width: 400px;
+    margin-bottom: 2rem;
+}
+
+.lesson-body {
+    padding: 4rem;
+    line-height: 1.8rem;
+    font-size: 16px;
+}
+
+.lesson-body p,
+.lesson-body ol {
+    margin-bottom: 2rem;
+}
+
+.big-grey {
+    font-size: 36px;
+    font-weight: 600;
+    color: #c8d9f1 ;
+}
+
+.card-complete {
+    border: 3px solid rgb(23, 162, 184);
+    border-radius: 6px;
+}
+
+.lesson-body iframe {
+    max-width: 100%;
+}
+
+.lesson-body img {
+    max-width: 100%;
+    height: auto !important;
+}
+
+/* FORUM */
+.post .avatar {
+    height: 100px;
+    width: 100px;
+    background-color: #724f4d;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    overflow: hidden;
+    border-radius: 2px;
+    border: 1px solid #eae0da;
+}
+
+.forum-avatar {
+    width: 100px;
+    height: 100px;
+    display: block;
+    border-radius: 4px;
+}
+
+.forum-avatar .fas {
+    color: #FFF;
+    opacity: 0.7;
+    font-size: 60px;
+    vertical-align: middle;
+    line-height: 100px;
+    text-align: center;
+    width: 100px;
+}
+
+.nav-item .tag {
+    padding: 0 5px;
+    font-weight: 600;
+    line-height: 16px;
+    font-size: 10px;
+    position: relative;
+    margin-left: 4px;
+    top: -1px;
+}
+
+
+/* VIDEO */
+
+.video-day {
+    font-size: 36px;
+}
+
+.video-month {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+
+@media (max-width: 992px) {
+    .categories-menu {
+        padding-top: 1rem;
+        display: none;
+    }
+    .bg-cyan-darker .course-details {
+        position: static;
+        margin-top: 0rem;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .lesson-body {
+        padding: 2rem;
+    }
+}

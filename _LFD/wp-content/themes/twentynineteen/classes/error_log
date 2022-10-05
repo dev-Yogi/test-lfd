@@ -1,0 +1,4 @@
+[24-Oct-2021 01:23:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Walker_Comment' not found in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentynineteen/classes/class-twentynineteen-walker-comment.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/twentynineteen/classes/class-twentynineteen-walker-comment.php on line 15

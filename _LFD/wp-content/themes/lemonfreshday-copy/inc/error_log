@@ -1,0 +1,2 @@
+[04-Dec-2018 05:51:14 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/inc/customizer.php on line 18
+[13-Dec-2018 20:47:19 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/inc/template-tags.php on line 264

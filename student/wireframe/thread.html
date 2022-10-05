@@ -1,0 +1,219 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <title>Dashboard | AIM Student Portal</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <link href="css/tabler.css" rel="stylesheet">
+    <link href="css/tabler-override.css" rel="stylesheet">
+    <link href="css/member.css" rel="stylesheet">
+    <link href="css/member-tablet.css" rel="stylesheet">
+    <link href="css/member-mobile.css" rel="stylesheet">
+    <link href="css/student.css" rel="stylesheet">
+
+    <style>
+        @font-face {
+            font-family: "feather";
+            src: url("fonts/feather/feather-webfont.eot?t=1501841394106");
+            src: url("fonts/feather/feather-webfont.eot?t=1501841394106#iefix") format("embedded-opentype"), url("fonts/feather/feather-webfont.woff?t=1501841394106") format("woff"), url("fonts/feather/feather-webfont.ttf?t=1501841394106") format("truetype"), url("fonts/feather/feather-webfont.svg?t=1501841394106#feather") format("svg");
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="page">
+        <div class="flex-fill">
+            <div class="header py-lg-5">
+                <div class="container">
+                    <div class="d-block d-md-flex">
+                        <a class="navbar-brand" href="index.html">
+                            <img src="https://aiminstitute.org/wp-content/themes/aim-2020/img/logo.png" class="navbar-brand-img" alt="AIM Careerlink">
+                        </a>
+                        <div class="ml-auto d-flex order-lg-2 menus">
+                            <div class="d-none d-lg-block">
+                            </div>
+
+                            <div class="dropdown d-md-none mobile-menu-site">
+                                <a href="javascript:void(0)" class="nav-link pr-0" data-toggle="dropdown">
+                                    <i class="fe fe-menu"></i>
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-left">
+                                    <a href="member" class="dropdown-item active">Home</a>
+                                    <a href="member/application" class="dropdown-item ">Applications</a>
+                                    <a href="member/settings/general" class="dropdown-item ">Settings</a>
+                                    <a href="help.html" class="dropdown-item ">Help</a>
+                                </div>
+                            </div>
+
+                            <div class="dropdown d-none d-md-flex">
+                                <a class="nav-link icon" data-toggle="dropdown" aria-expanded="true">
+                                    <i class="fe fe-mail"></i>
+                                    <span class="nav-unread"></span>
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow" x-placement="bottom-end" style="position: absolute; transform: translate3d(-444px, 32px, 0px); top: 0px; left: 0px; will-change: transform;">
+                                    <a href="#" class="dropdown-item d-flex">
+                                        <span class="avatar bg-blue mr-3 align-self-center" style="background-image: url(demo/faces/male/41.jpg)"></span>
+                                        <div>
+                                            <strong>Resume Research</strong>: next lesson has an upcoming video conference
+                                            <div class="small text-muted">10 minutes ago</div>
+                                        </div>
+                                    </a>
+                                    <a href="#" class="dropdown-item d-flex">
+                                        <span class="avatar bg-blue mr-3 align-self-center" style="background-image: url(demo/faces/female/1.jpg)"></span>
+                                        <div>
+                                            <strong>Charlie</strong> has sent you a private message
+                                            <div class="small text-muted">1 hour ago</div>
+                                        </div>
+                                    </a>
+                                    
+                                    <div class="dropdown-divider"></div>
+                                    <a href="#" class="dropdown-item text-center">Go to Inbox</a>
+                                </div>
+                            </div>
+
+                            <div class="dropdown mobile-menu-user d-md-flex">
+                                <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown">
+                                    <span class="ml-2 d-none d-lg-block desktop-menu-user">
+                                        <span class="text-default">Mia Schwartz</span>
+                                        <i class="fe fe-chevron-down"></i>
+                                    </span>
+                                    <span class="d-lg-none"><i class="fe fe-user"></i></span>
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow">
+                                    <a class="dropdown-item" href="me//password">
+                                        <span>Change Password</span>
+                                    </a>
+                                    <a class="dropdown-item" href="contact">
+                                        <span>Support</span>
+                                    </a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="user/logout">Sign out</a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header-nav d-flex">
+                <div class="container">
+                    <div class="row align-items-center">
+
+                        <div class="col">
+                            <ul class="nav nav-tabs">
+                                <li class="nav-item">
+                                    <a href="index.html" class="nav-link"><i class="fe fe-home"></i> Dashboard</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="courses.html" class="nav-link"><i class="fe fe-book-open"></i> Courses</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="forum.html" class="nav-link"><i class="fe fe-message-square"></i> Forum</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="help.html" class="nav-link"><i class="fe fe-help-circle"></i> Help</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="col-lg-3 ml-auto">
+                            <form class="input-icon my-3 my-lg-0">
+                                <input type="search" class="form-control header-search" placeholder="Search…" tabindex="1">
+                                <div class="input-icon-addon">
+                                    <i class="fe fe-search"></i>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="imply-scroll"></div>
+            </div>
+            <div class="container">
+
+                <div class="page-header">
+                    <h1 class="page-title">Forum</h1>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <h1>Thread Title Desu</h1>
+                        <div class="card">
+                            <table class="table card-table">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <div class="row">
+                                                <div class="col-lg-3">
+                                                    <img class="bg-blue-darker" src="https://sadanduseless.b-cdn.net/wp-content/uploads/2019/05/dog-breading19.jpg">
+                                                    
+                                                </div>
+                                                <div class="col-lg-9">
+                                                    test
+                                                </div>
+                                            </div>
+                                        </td>
+                                    <tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer mt-5">
+        <div class="container">
+            <div class="row align-items-center flex-row-reverse">
+                <div class="col-auto ml-lg-auto">
+                    <div class="row align-items-center">
+                        <div class="col-auto">
+                            <ul class="list-inline list-inline-dots mb-0">
+                                <li class="list-inline-item"><a href="./docs/index.html">Site Use Terms</a></li>
+                                <li class="list-inline-item"><a href="./docs/index.html">Privacy Policy</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-auto">
+                            <a href="contactus" class="btn btn-outline-primary btn-sm">Contact Us</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+                    Copyright © 2020 <a href=".">AIM Student Portal</a> All rights reserved.
+                </div>
+            </div>
+        </div>
+    </footer>
+</main>
+<script src="js/jquery.js"></script>
+<script src="js/jquery-ui.js"></script>
+<script src="js/popper.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="js/datatables.js"></script>
+<script src="js/datatables-bootstrap.js"></script>
+<script src="js/selectize.js"></script>
+<script src="js/helper.js"></script>
+<script src="js/inputmask.js"></script>
+<script src="js/ckeditor/ckeditor.js"></script>
+<script src="js/bs-custom-file-input.js"></script>
+<script src="js/employer/employer.js"></script>
+<script>
+   var base_url = '';
+   var today = '22 Apr, 2020';
+</script>
+
+
+</body>
+</html>

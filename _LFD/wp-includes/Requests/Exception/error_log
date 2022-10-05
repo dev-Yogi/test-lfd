@@ -1,0 +1,4 @@
+[14-Jul-2018 07:36:12 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/Requests/Exception/Transport.php on line 3
+[14-Jul-2018 07:40:58 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/Requests/Exception/HTTP.php on line 13
+[06-Feb-2019 20:16:24 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/Requests/Exception/HTTP.php on line 13
+[06-Feb-2019 20:16:34 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/Requests/Exception/Transport.php on line 3

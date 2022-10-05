@@ -1,0 +1,2 @@
+[14-Jul-2018 07:45:38 America/Chicago] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[06-Feb-2019 20:17:00 America/Chicago] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/Requests/Exception/Transport/cURL.php on line 3

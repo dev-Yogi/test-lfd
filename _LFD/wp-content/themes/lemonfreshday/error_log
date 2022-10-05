@@ -1,0 +1,40 @@
+[22-May-2021 12:07:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/404.php on line 8
+[23-May-2021 00:00:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/404.php on line 8
+[15-Dec-2021 07:55:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/404.php on line 8
+[15-Dec-2021 07:55:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/header.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/header.php on line 15
+[15-Dec-2021 07:55:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/archive.php on line 10
+[15-Dec-2021 07:55:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/index.php on line 14
+[15-Dec-2021 07:55:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/archive.php on line 10
+[15-Dec-2021 07:55:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/404.php on line 8
+[15-Dec-2021 07:55:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/index.php on line 14
+[15-Dec-2021 07:55:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/header.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-content/themes/lemonfreshday/header.php on line 15

@@ -1,0 +1,30 @@
+[14-Jul-2018 07:14:17 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[14-Jul-2018 07:14:21 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-text.php on line 17
+[14-Jul-2018 07:14:22 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[14-Jul-2018 07:14:26 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[14-Jul-2018 07:14:54 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[14-Jul-2018 07:15:10 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-search.php on line 17
+[14-Jul-2018 07:16:21 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[14-Jul-2018 07:18:48 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[14-Jul-2018 07:33:21 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[14-Jul-2018 07:38:15 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[14-Jul-2018 07:59:26 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[14-Jul-2018 08:18:58 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[14-Jul-2018 08:19:59 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-links.php on line 17
+[06-Feb-2019 20:13:27 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[06-Feb-2019 20:13:28 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-text.php on line 17
+[06-Feb-2019 20:13:28 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[06-Feb-2019 20:13:28 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[06-Feb-2019 20:13:29 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[06-Feb-2019 20:13:29 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[06-Feb-2019 20:13:31 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[06-Feb-2019 20:13:32 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[06-Feb-2019 20:13:34 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[06-Feb-2019 20:13:35 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-search.php on line 17
+[06-Feb-2019 20:13:36 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[06-Feb-2019 20:13:37 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-links.php on line 17
+[06-Feb-2019 20:13:58 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home2/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[24-Oct-2021 08:06:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/elstretcho/public_html/lemonfreshday.com/wp-includes/widgets/class-wp-widget-pages.php on line 17

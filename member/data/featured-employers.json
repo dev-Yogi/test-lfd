@@ -1,0 +1,23 @@
+{
+	"featured": [{
+			"employer_id": 1,
+			"logo": "1.png",
+			"company_name": "Test"
+		},
+		{
+			"employer_id": 2,
+			"logo": "2.png",
+			"company_name": "Test"
+		},
+		{
+			"employer_id": 3,
+			"logo": "3.png",
+			"company_name": "Test"
+		},
+		{
+			"employer_id": 4,
+			"logo": "4.png",
+			"company_name": "Test"
+		}
+	]
+}

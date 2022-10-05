@@ -1,0 +1,309 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <title>Dashboard | AIM Student Portal</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <link href="css/tabler.css" rel="stylesheet">
+    <link href="css/tabler-override.css" rel="stylesheet">
+    <link href="css/member.css" rel="stylesheet">
+    <link href="css/member-tablet.css" rel="stylesheet">
+    <link href="css/member-mobile.css" rel="stylesheet">
+    <link href="css/staff.css" rel="stylesheet">
+
+    <style>
+        @font-face {
+            font-family: "feather";
+            src: url("fonts/feather/feather-webfont.eot?t=1501841394106");
+            src: url("fonts/feather/feather-webfont.eot?t=1501841394106#iefix") format("embedded-opentype"), url("fonts/feather/feather-webfont.woff?t=1501841394106") format("woff"), url("fonts/feather/feather-webfont.ttf?t=1501841394106") format("truetype"), url("fonts/feather/feather-webfont.svg?t=1501841394106#feather") format("svg");
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="staff-bar bg-blue-dark py-lg-2">
+        <div class="container">
+
+            <div class="d-block d-md-flex">
+                <div>
+
+                    <a href="#" class="bg-blue btn-sm mt-1 d-inline-block"><b>AIM Student Portal Admin</b></a>
+                </div>
+                <div class="ml-auto d-flex order-lg-2 menus">
+                    <div class="d-none d-lg-block">
+                    </div>
+
+                    <div class="dropdown d-md-none mobile-menu-site">
+                        <a href="javascript:void(0)" class="nav-link pr-0" data-toggle="dropdown">
+                            <i class="fe fe-menu"></i>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-left">
+                            <a href="member" class="dropdown-item active">Home</a>
+                            <a href="member/application" class="dropdown-item ">Applications</a>
+                            <a href="member/settings/general" class="dropdown-item ">Settings</a>
+                            <a href="help.html" class="dropdown-item ">Help</a>
+                        </div>
+                    </div>
+
+                    <div class="dropdown d-none d-md-flex">
+                        <a class="nav-link icon" data-toggle="dropdown" aria-expanded="true">
+                            <i class="fe fe-mail text-light"></i>
+                            <span class="nav-unread"></span>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow" x-placement="bottom-end" style="position: absolute; transform: translate3d(-444px, 32px, 0px); top: 0px; left: 0px; will-change: transform;">
+                            <a href="#" class="dropdown-item d-flex">
+                                <span class="avatar bg-blue mr-3 align-self-center" style="background-image: url(demo/faces/male/41.jpg)"></span>
+                                <div>
+                                    <strong>Resume Research</strong>: next lesson has an upcoming video conference
+                                    <div class="small text-muted">10 minutes ago</div>
+                                </div>
+                            </a>
+                            <a href="#" class="dropdown-item d-flex">
+                                <span class="avatar bg-blue mr-3 align-self-center" style="background-image: url(demo/faces/female/1.jpg)"></span>
+                                <div>
+                                    <strong>Charlie</strong> has sent you a private message
+                                    <div class="small text-muted">1 hour ago</div>
+                                </div>
+                            </a>
+                            <div class="dropdown-divider"></div>
+                            <a href="#" class="dropdown-item text-center">Go to Inbox</a>
+                        </div>
+                    </div>
+
+                    <div class="dropdown mobile-menu-user d-md-flex">
+                        <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown">
+                            <span class="ml-2 d-none d-lg-block desktop-menu-user">
+                                <span class="text-light">Alex Holton</span>
+                                <i class="fe fe-chevron-down text-light mt-1"></i>
+                            </span>
+                            <span class="d-lg-none"><i class="fe fe-user"></i></span>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow">
+                            <a class="dropdown-item" href="me//password">
+                                <span>Change Password</span>
+                            </a>
+                            <a class="dropdown-item" href="contact">
+                                <span>Support</span>
+                            </a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="user/logout">Sign out</a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="staff-menu-bar bg-dark">
+        <div class="container">
+            <ul class="nav nav-tabs border-0 flex-column flex-lg-row text-light">
+                <li class="nav-item">
+                    <a href="#" class="nav-link active"><i class="fe fe-home"></i> Dashboard</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a href="#" class="nav-link "><i class="fe fe-book-open"></i> Courses</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link "><i class="fe fe-users"></i> Students</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link "><i class="fe fe-message-square"></i> Forum</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link "><i class="fe fe-bar-chart-2"></i> Reports</a>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+    <div class="page">
+        <div class="page-main">
+            <div class="container">
+                <div class="page-header">
+                    <h1 class="page-title">
+                        Dashboard
+                    </h1>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <a href="index.html" class="btn btn-secondary"><i class="fe fe-corner-up-left mr-2"></i>Go to Student Portal</a>
+                        <hr>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="page-header">
+                            Instructor Panel
+                        </div>
+                        <div class="card p-5">
+                            <a href="#" class="btn btn-primary text-left mb-3"><i class="fe fe-plus mr-2"></i> Set up new lesson</a>
+                            <a href="#" class="btn btn-secondary text-left mb-3"><i class="fe fe-corner-up-left mr-2"></i> My Courses</a>
+                            <a href="#" class="btn btn-secondary text-left mb-3 disabled"><i class="fe fe-settings mr-2"></i> Assignment Submissions <i class="fe fe-chevron-right float-right mt-1"></i></a>
+                            <a href="#" class="btn btn-secondary text-left mb-3"><i class="fe fe-settings mr-2"></i> Contact Form Submissions <i class="fe fe-chevron-right float-right mt-1"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="page-header">
+                            Admin Panel
+                        </div>
+                        <div class="card p-5">
+                            <a href="#" class="btn btn-primary text-left mb-3"><i class="fe fe-plus mr-2"></i> Set up new student</a>
+                            <a href="#" class="btn btn-secondary text-left mb-3"><i class="fe fe-user mr-2"></i> Add User <i class="fe fe-chevron-right float-right mt-1"></i></a>
+                            <a href="#" class="btn btn-secondary text-left mb-3"><i class="fe fe-user mr-2"></i> Manage Users <i class="fe fe-chevron-right float-right mt-1"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="page-header">
+                            Recent Students
+                        </div>
+                        
+                        <div class="card">
+                            <div class="table-responsive">
+                                <table class="table card-table table-vcenter table-hover">
+                                    <thead>
+                                        <tr>
+                                            <th>Name</th>
+                                            <th width="120">School</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <a href="thread.html">Peter Tonkins</a>
+                                            </td>
+                                            <td width="240">South Philadelphia High School</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <a href="thread.html">Trisha Burns</a>
+                                            </td>
+                                            <td width="240">Elkhorn High School</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <a href="thread.html">Melanie Patty</a>
+                                            </td>
+                                            <td width="240">Another High School</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <a href="thread.html">Yorik Grow</a>
+                                            </td>
+                                            <td width="240">South Philadelphia High School</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <a href="thread.html">Melanie Patty</a>
+                                            </td>
+                                            <td width="240">Another High School</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <div class="card-footer text-right no-bg">
+                                    <a href="#" class="btn btn-secondary btn-sm">View Students »</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="page-header">
+                            Recent Forum Replies
+                        </div>
+                        
+                        <div class="card">
+                            <div class="table-responsive">
+                                <table class="table card-table table-vcenter table-hover">
+                                    <thead>
+                                        <tr>
+                                            <th>Topic</th>
+                                            <th width="120">Posted</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <div><a href="thread.html" class="text-inherit">Some topic title <span class="text-muted font-weight-normal"> · Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                tempor incididunt ut ...</span></a></div>
+                                            </td>
+                                            <td width="140">36 minutes ago</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <div><a href="thread.html" class="text-inherit">Some topic title <span class="text-muted font-weight-normal"> · Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                tempor incididunt ut ...</span></a></div>
+                                            </td>
+                                            <td>2 hours ago</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <div><a href="thread.html" class="text-inherit">Some topic title <span class="text-muted font-weight-normal"> · Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                tempor incididunt ut ...</span></a></div>
+                                            </td>
+                                            <td width="140">36 minutes ago</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <div><a href="thread.html" class="text-inherit">Some topic title <span class="text-muted font-weight-normal"> · Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                tempor incididunt ut ...</span></a></div>
+                                            </td>
+                                            <td width="140">36 minutes ago</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <div><a href="thread.html" class="text-inherit">Some topic title <span class="text-muted font-weight-normal"> · Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                tempor incididunt ut ...</span></a></div>
+                                            </td>
+                                            <td width="140">36 minutes ago</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <div class="card-footer text-right no-bg">
+                                    <a href="#" class="btn btn-secondary btn-sm">View All Forum Replies »</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="p-5 m-5"></footer>
+    <script src="http://localhost/member/js/jquery.js"></script>
+    <script src="http://localhost/member/js/jquery-ui.js"></script>
+    <script src="http://localhost/member/js/popper.js"></script>
+    <script src="http://localhost/member/js/bootstrap.js"></script>
+    <script src="http://localhost/member/js/datatables.js"></script>
+    <script src="http://localhost/member/js/datatables-bootstrap.js"></script>
+    <script src="http://localhost/member/js/selectize.js"></script>
+    <script src="http://localhost/member/js/helper.js"></script>
+    <script src="http://localhost/member/js/inputmask.js"></script>
+    <script src="http://localhost/member/js/ckeditor/ckeditor.js"></script>
+    <script src="http://localhost/member/js/bs-custom-file-input.js"></script>
+    <script src="http://localhost/member/js/employer/employer.js"></script>
+    <script>
+        var base_url = 'http://localhost/member/';
+        var today = '24 Apr, 2020';
+    </script>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,316 @@
+@media (max-width: 768px) {
+
+    .menus {
+        position: absolute;
+        top: 6px;
+        width: 100%;
+    }
+
+    .mobile-menu-user {
+        left: 480px;
+        position: absolute;
+    }
+    
+    .table-md-responsive {
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+    }
+    .footer {
+        padding-bottom: 100px;
+    }
+    .card-deck .card.col-lg-6 {
+        -ms-flex: auto;
+        flex: auto;
+        margin-bottom: 0.75rem;
+    }
+
+    .col-lg-9 .card-header {
+        display: block;
+    }
+
+    .navbar-brand {
+        width: 150px;
+        display: block;
+    }
+
+    .header-nav .nav-tabs {
+
+        width: 100%;
+        overflow-x: scroll;
+        white-space: nowrap;
+    }
+    .header-nav .nav-item {
+
+        display: inline-block;
+        height: 100%;
+    }
+
+    .header-nav .nav {
+        display: block;
+    }
+
+    .header-nav .nav-tabs .nav-link {
+        border-radius: 0;
+        margin-bottom: 0;
+        border-top: 1px solid transparent;
+        border-bottom: none;
+        text-align: center;
+    }
+    .header-nav .nav-tabs .nav-link.active {
+
+        border-top: 1px solid #467fcf;
+    }
+    .header-nav {
+        position: fixed;
+        z-index: 5;
+        border-top: 1px solid rgba(0, 40, 100, 0.12);
+        border-bottom: none;
+        width: 100%;
+        display: block;
+        bottom: 0;
+    }
+
+    .header-nav .nav-tabs .nav-item i {
+        display: block;
+        text-align: center;
+        margin: auto;
+        font-size: 1.2rem;
+        width: 50px;
+    }
+
+    .header-nav .nav-submenu.nav {
+        display: none !important;
+    }
+
+    .imply-scroll {
+        background: linear-gradient(to right, transparent, white);
+        height: 76px;
+        width: 80px;
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        border-right: 10px solid white;
+    }
+
+    .header-nav .nav-item:last-child {
+
+        margin-right: 3rem;
+    }
+
+    .card-table tr td:first-child,
+    .card-table tr th:first-child {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .mobile-menu-site .dropdown-item, .mobile-menu-user .dropdown-item {
+        font-size: 16px;
+        padding: 0.75rem 1.5rem;
+    }
+
+    .nav-item svg {
+        display: block;
+        margin: auto;
+        margin-bottom: 3px;
+    }
+
+    .current-account a {
+        max-width: auto;
+        display: inline;
+        white-space: unset;
+        overflow: unset;
+        text-overflow: unset;
+        position: static;
+    }
+
+    /* APPS */
+    .dropdown-actions {
+        width: 100%;
+        padding: 0 !important;
+    }
+    .dropdown-actions .dropdown-toggle {
+        width: 100%;
+        margin: 0.5rem 0;
+    }
+    .card-selectize {
+        width: 100%;
+        margin: 0 !important;
+        display: block !important;
+        margin-top: 0.5rem;
+        margin-left: 0 !important;
+    }
+
+    .slidey {
+        width: 100%;
+    }
+
+    .slidey.hidden {
+        right: -100%;
+    }
+    .slidey-header {
+        padding: 1rem 1rem;
+    }
+    .slidey .tab-pane {
+        padding: 1rem;
+    }
+    /* JOBS */
+    .card-header .data-table-search {
+        margin: 0.5rem 0;
+    }
+
+    /* RESUME DATABASE */
+
+    .tag-container {
+        width: 100%;
+    }
+
+    .table-resumedatabase .actions {
+        float: none !important;
+        margin-bottom: 12px;
+    }
+
+    .table-resumedatabase .custom-checkbox {
+        margin-top: 16px !important;
+    }
+
+    .resumedatabase-advanced td {
+        display: block;
+    }
+
+    .table-resumedatabase .custom-checkbox {
+        width: auto;
+    }
+
+    .resume-view .row {
+        padding: 0 !important;
+    }
+
+    .resume-view .profile-actions {
+        float: none !important;
+    }
+
+    .resume-view .profile-actions .btn {
+        padding: 0.2rem 0.3rem;
+        margin-bottom: 1rem;
+    }
+
+    .dropdown-actions + .btn-secondary.ml-2 {
+        margin-left: 0 !important;
+        width: 100%;
+    }
+
+    /* SETTINGS */
+    .table-social td {
+        min-width: 100px;
+    }
+
+    .table-md-responsive .date {
+        min-width: 100px;
+    }
+
+    .col-lg-9 .card-options .btn-sm {
+        width: 100%;
+        margin: 0.5rem 0;
+    }
+}
+
+@media (min-width: 768px) {
+}
+
+@media (max-width: 576px) {
+
+    .mobile-menu-user {
+        right: 30px;
+        left: auto;
+        position: absolute;
+    }
+
+    #ui-datepicker-div {
+        left: 35px !important;
+    }
+
+    /* APPS */
+    .table-all-activity {
+        display: block;
+    }
+
+    .workflow .text-right {
+        display: none;
+    }
+
+    .workflow .h2 {
+        display: inline;
+        text-align: left;
+        font-size: 14px;
+        float: left;
+    }
+
+    .workflow .text-muted {
+        display: inline;
+        text-align: right;
+        float: right;
+        margin: 0 !important;
+    }
+
+    .workflow .row {
+        display: block;
+    }
+
+    .workflow .col {
+        display: block;
+    }
+
+    .workflow .card-status {
+        right: auto;
+        bottom: 0;
+        height: auto;
+        width: 3px;
+        border-radius: 3px 0 0 3px;
+    }
+
+    .data-table-applications-job {
+        width: 690px;
+    }
+
+    /* JOBS */
+    .metrics-card h1 {
+        font-size: 1.5rem;
+    }
+
+    .metrics-card {
+        font-size: 12px;
+        margin-bottom: 0.5rem;
+        height: calc(100% - 0.5rem);
+    }
+
+    .table-applicants .name {
+        width: 120px;
+    }
+
+    .schedule-basic .selectgroup {
+        width: 100%;
+    }
+
+
+    .schedule-basic .selectgroup-button {
+        padding: 0.375rem 0.5rem;
+    }
+
+    .schedule-full select {
+        min-width: 75px;
+    }
+
+    footer .col-auto {
+        display: block;
+        flex: none;
+        text-align: center;
+        width: 100%;
+        margin: 0.5rem 0;
+    }
+}
+
+@media (max-width: 375px) {
+}

@@ -1,0 +1,150 @@
+/*
+Theme Name: Lemon Fresh Day
+Author: Josh Johnston
+Author URI: http://wordpress.org/
+Description: Lemon Fresh Day
+*/
+
+body {
+	margin: 0;
+	background: #000000;
+	color: #FFFFFF;
+}
+
+img {
+	border-color: yellow;
+}
+
+#header {
+	background-image: url('images/header_01.jpg');
+	width: 820px;
+	height: 175px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#join_us {
+	float: right;
+	margin-right: 40px;
+}
+
+#main_wrapper {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+#wrapper {
+	width: 820px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#footer {
+	width: 820px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#footer_text_yellow {
+	color: yellow;
+	font-style: italic;
+	font-weight: bold;
+}
+
+#content {
+	width: 570px;
+	float: left;
+	min-height: 500px;
+	background-color: #000000;
+	text-align: left;
+}
+
+#sidebar {
+	width: 220px;
+	float: right;
+	min-height: 500px;
+	background-color: #444444;
+}
+
+/*
+#menu {
+	align: left;
+	background-color: red;
+}
+*/
+
+#menu {
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+#menu ul{
+list-style-type:none;
+padding:0;
+margin:0;
+}
+/* make the top level links horizontal and position relative so that we can position the sub level */
+#menu li{
+/*float:left;*/
+display: inline-block;
+list-style: none;
+position:relative;
+z-index:100;
+
+border-right: 1px solid #ffffff;
+}
+
+#menu li:last-of-type { border-right: 0; }
+
+/* use the table to position the dropdown list */
+#menu table{
+position:absolute;
+border-collapse:collapse;
+z-index:80;
+left:-1px;
+top:25px;
+}
+
+/* style all the links */
+#menu a, .menu :visited {
+display:block;
+font-size:14px;
+/*width: 80px;*/
+padding:7px 8px;
+color:#FFF;
+background:#000000;
+text-decoration:none;
+margin-right:1px;
+text-align:center;
+font-family:verdana, sans-serif;
+}
+/* style the links hover */
+#menu :hover{
+color:#FFF;
+background:#000000;
+}
+
+/* hide the sub level links */
+#menu ul ul {
+visibility:hidden;
+position:absolute;
+width:149px;
+height:0;
+}
+/* make the sub level visible on hover list or link */
+#menu ul li:hover ul,
+#menu ul a:hover ul{
+visibility:visible;
+}
+
+.center { text-align: center; }
+
+
+#home_sidebar {
+	float: right;
+	width: 220px;
+	text-align: left;
+}

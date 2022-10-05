@@ -1,0 +1,118 @@
+@media (max-width: 1280px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .current-account a {
+        max-width: 310px;
+    }
+
+    /* JOBS */
+    .metrics-card {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 992px) {
+    .card-deck .card.col-lg-6 {
+        -ms-flex: auto;
+        flex: auto;
+        margin-bottom: 0.75rem;
+    }
+
+    .menus .nav-link {
+        font-size: 24px;
+    }
+
+    .table th,
+    .table td {
+        padding: 0.3rem;
+        white-space: nowrap;
+    }
+
+    .lesson .table td {
+        padding: 0.3rem;
+        white-space: initial;
+    }
+
+    .staff-bar div {
+        float: none !important;
+    }
+
+    .staff-bar input, 
+    .staff-bar select {
+        width: 100%;
+    }
+
+    .staff-bar .d-inline,
+    .staff-bar .d-inline-block {
+        display: block !important;
+    }
+
+    .staff-bar .current-account {
+        margin: 1rem 0;
+    }
+
+    .staff-bar .staff-bar-expand .fe {
+        float: right;
+        color: #FFF;
+        font-size: 18px;
+        border: 1px solid #FFF4;
+        border-radius: 3px;
+        padding: 5px;
+        margin-top: -4px;
+        margin-right: 4px;
+    }
+
+    .staff-bar-mobile-accordion {
+        display: none;
+    }
+    
+    /* JOBS */
+    .metrics-card {
+        font-size: 1rem;
+    }
+
+    .workflow-summary .h1 {
+        font-size: 1.5rem;
+    }
+    .workflow-summary .text-muted {
+        font-size: 12px;
+    }
+
+    .workflow-summary .card-body {
+        padding: 0.25rem !important;
+    }
+
+    .workflow-summary .col {
+        padding-right: 0.25rem;
+        padding-left: 0.25rem;
+    }
+    .workflow-summary .fe-chevron-right {
+        position: relative;
+        top: 30px;
+        left: 16px;
+        opacity: 0.5;
+    }
+
+    /* RESUME DATABASE */
+    .table-resumedatabase .custom-checkbox {
+        width: 10px;
+    }
+
+    .resumedatabase-filters .card-body {
+        display: none;
+    }
+    
+    .related-resumes {
+        order: 1;
+    }
+
+    /* SETTINGS */
+
+    .settings-menu {
+        padding-top: 1rem;
+        display: none;
+    }
+}
